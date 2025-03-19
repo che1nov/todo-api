@@ -2,17 +2,6 @@
 
 This project is a RESTful API built using Go that allows users to manage their to-do list. The API supports user authentication, CRUD operations for to-do items, error handling, and security measures.
 
-## Goals
-
-The skills you will learn from this project include:
-
-- User authentication
-- Schema design and databases
-- RESTful API design
-- CRUD operations
-- Error handling
-- Security
-
 ## Requirements
 
 You are required to develop a RESTful API with the following endpoints:
